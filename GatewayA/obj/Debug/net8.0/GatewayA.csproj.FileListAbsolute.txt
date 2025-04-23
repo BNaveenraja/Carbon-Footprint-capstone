@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\CarbonFootPrint\GatewayA\obj\Debug\net8.0\GatewayA.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CarbonFootPrint\GatewayA\obj\Debug\net8.0\GatewayA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CarbonFootPrint\GatewayA\obj\Debug\net8.0\GatewayA.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CarbonFootPrint\GatewayA\obj\Debug\net8.0\GatewayA.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CarbonFootPrint\GatewayA\obj\Debug\net8.0\GatewayA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CarbonFootPrint\GatewayA\obj\Debug\net8.0\GatewayA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\CarbonFootPrint\GatewayA\obj\Debug\net8.0\GatewayA.MvcApplicationPartsAssemblyInfo.cache

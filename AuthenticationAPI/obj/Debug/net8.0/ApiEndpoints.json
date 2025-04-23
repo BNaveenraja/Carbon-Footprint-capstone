@@ -1,0 +1,85 @@
+[
+  {
+    "ContainingType": "AuthenticationAPI.Controllers.AdminController",
+    "Method": "GetStats",
+    "RelativePath": "api/Admin/stats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcoLife.AuthAPi.Controllers.AuthApiController",
+    "Method": "Login",
+    "RelativePath": "api/AuthApi/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AuthenticationAPI.Models.DTO.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcoLife.AuthAPi.Controllers.AuthApiController",
+    "Method": "Register",
+    "RelativePath": "api/AuthApi/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AuthenticationAPI.Models.DTO.RegistrationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcoLife.AuthAPi.Controllers.AuthApiController",
+    "Method": "GetRoles",
+    "RelativePath": "api/AuthApi/Roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcoLife.AuthAPi.Controllers.AuthApiController",
+    "Method": "Update",
+    "RelativePath": "api/AuthApi/Update/{userid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "AuthenticationAPI.Models.DTO.UpdateRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EcoLife.AuthAPi.Controllers.AuthApiController",
+    "Method": "GetUsers",
+    "RelativePath": "api/AuthApi/Users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
